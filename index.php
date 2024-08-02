@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- saved from url=(0041)https://chardhamyatraa.org/tour-packages/ -->
+<!-- saved from url=(0041)https://packagebookinghub.com/tour-packages/ -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <!-- Required meta tags -->
     
@@ -15,7 +15,7 @@
     <link href="./packagebookinghub_files/css" rel="stylesheet">
     <link href="./packagebookinghub_files/font-awesome.min.css" rel="stylesheet">
 
-    <title>Chardham Yatra Tour 2024</title>
+    <title>Chardham Yatra Package Booking Hub 2024</title>
 <script charset="utf-8" src="./packagebookinghub_files/twk-chunk-bf24a88e.js.download"></script><script charset="utf-8" src="./packagebookinghub_files/twk-chunk-71978bb6.js.download"></script><script charset="utf-8" src="./packagebookinghub_files/twk-chunk-f1565420.js.download"></script><script charset="utf-8" src="./packagebookinghub_files/twk-chunk-7c2f6ba4.js.download"></script><script charset="utf-8" src="./packagebookinghub_files/twk-chunk-48f3b594.js.download"></script><script charset="utf-8" src="./packagebookinghub_files/twk-chunk-4fe9d5dd.js.download"></script><script charset="utf-8" src="./packagebookinghub_files/twk-chunk-2d0b9454.js.download"></script><script charset="utf-8" src="./packagebookinghub_files/twk-chunk-24d8db78.js.download"></script><style type="text/css">#gkv26dthfkd1722626654411 {outline:none !important;
 visibility:visible !important;
 resize:none !important;
@@ -74,7 +74,7 @@ display: none !important;
                     <img src="./packagebookinghub_files/get-a-free-quote.png" alt="" class="img-fluid">
 </button>
                 </div>
-        <a href="https://api.whatsapp.com/send?phone=919716674269%20&amp;text=%20Hello%20Skylink,%20I%20am%20looking%20for%20Chardham%20Tour%20Packages" class="whatsapp-phone"><img src="./packagebookinghub_files/whas-ico.png" alt="Whatsapp Icon"></a>
+        <a href="https://api.whatsapp.com/send?phone=919062411615%20&amp;text=%20Hello%20PackageBookHub,%20I%20am%20looking%20for%20Chardham%20Tour%20Packages" class="whatsapp-phone"><img src="./packagebookinghub_files/whas-ico.png" alt="Whatsapp Icon"></a>
         <nav class="navbar navbar-expand-lg topbar">
             <div class="container">
 
@@ -107,7 +107,7 @@ display: none !important;
         </nav>
         <nav class="navbar navbar-expand-lg main_menu">
             <div class="container">
-                <a class="navbar-brand" href="https://chardhamyatraa.org/tour-packages/index.php"><img class="img-responsive" src="./packagebookinghub_files/logo.jpg" alt="Logo"></a>
+                <a class="navbar-brand" href="https://packagebookinghub.com/tour-packages/index.php"><img class="img-responsive" src="./packagebookinghub_files/logo.jpg" alt="Logo"></a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <i class="fa fa-bars" aria-hidden="true"></i>
                 </button>
@@ -115,28 +115,28 @@ display: none !important;
 
                     <ul class="navbar-nav">
                         <li class="nav-item">
-                            <a class="nav-link" aria-current="page" href="https://chardhamyatraa.org/tour-packages/index.php">Home</a>
+                            <a class="nav-link" aria-current="page" href="https://packagebookinghub.com/tour-packages/index.php">Home</a>
                         </li>
 
                      
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="https://chardhamyatraa.org/tour-packages/#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            <a class="nav-link dropdown-toggle" href="https://packagebookinghub.com/tour-packages/#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                 Tour Packages
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                              <li><a class="dropdown-item" href="https://chardhamyatraa.org/tour-packages/chr-dham-yatra-packages-ex-delhi.php">CHR DHAM YATRA PACKAGES 11N12D EX DELHI</a></li>
-                              <li><a class="dropdown-item" href="https://chardhamyatraa.org/tour-packages/chardham-by-helicopter.php">CHARDHAM BY HELICOPTER 4N5D</a></li>
-                              <li><a class="dropdown-item" href="https://chardhamyatraa.org/tour-packages/chr-dham-yatra-packages-8n-9d-ex-haridwar.php">CHR DHAM YATRA PACKAGES 09N10D EX HARIDWAR</a></li>
-                              <li><a class="dropdown-item" href="https://chardhamyatraa.org/tour-packages/kedarnathji-yatra-ex-delhi.php">KEDARNATHJI YATRA EX DELHI 4N5D</a></li>
+                              <li><a class="dropdown-item" href="https://packagebookinghub.com/tour-packages/chr-dham-yatra-packages-ex-delhi.php">CHR DHAM YATRA PACKAGES 11N12D EX DELHI</a></li>
+                              <li><a class="dropdown-item" href="https://packagebookinghub.com/tour-packages/chardham-by-helicopter.php">CHARDHAM BY HELICOPTER 4N5D</a></li>
+                              <li><a class="dropdown-item" href="https://packagebookinghub.com/tour-packages/chr-dham-yatra-packages-8n-9d-ex-haridwar.php">CHR DHAM YATRA PACKAGES 09N10D EX HARIDWAR</a></li>
+                              <li><a class="dropdown-item" href="https://packagebookinghub.com/tour-packages/kedarnathji-yatra-ex-delhi.php">KEDARNATHJI YATRA EX DELHI 4N5D</a></li>
                             </ul>
                           </li>
 
                         <li class="nav-item">
-                            <a class="nav-link" aria-current="page" href="https://chardhamyatraa.org/tour-packages/about-us.php">About Us</a>
+                            <a class="nav-link" aria-current="page" href="https://packagebookinghub.com/tour-packages/about-us.php">About Us</a>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link" aria-current="page" href="https://chardhamyatraa.org/tour-packages/contact-us.php">Contact Us</a>
+                            <a class="nav-link" aria-current="page" href="https://packagebookinghub.com/tour-packages/contact-us.php">Contact Us</a>
                         </li>
 
                     </ul>
@@ -270,24 +270,24 @@ display: none !important;
                         <div class="destination-area title_paddings">
                             <div class="section-head-alpha text-center">
                                 <h2>Best Selling Chardham Packages <span class="blue-color"></span></h2>
-                                <p>Explore Chardham with Skylink Holidays</p>
+                                <p>Explore Chardham with Package Booking Hub </p>
                             </div>
                         </div>
                         <div class="list_of row">
                             <div class="col-md-4 col-sm-6 col-xs-12 b_packages">
                                 <div class="band"><img src="./packagebookinghub_files/30pack.png" alt="30pack"> </div>
                                 <div class="v_place_img">
-                                    <a href="https://chardhamyatraa.org/tour-packages/chr-dham-yatra-packages-ex-delhi.php"><img src="./packagebookinghub_files/chardham_yatra-from-delhi.jpg" alt="Tour Booking" title="Tour Booking"> <span class="daysbadge"><img loading="lazy" src="./packagebookinghub_files/dat.png" alt="day"> 11N / 12D</span></a></div>
+                                    <a href="https://packagebookinghub.com/tour-packages/chr-dham-yatra-packages-ex-delhi.php"><img src="./packagebookinghub_files/chardham_yatra-from-delhi.jpg" alt="Tour Booking" title="Tour Booking"> <span class="daysbadge"><img loading="lazy" src="./packagebookinghub_files/dat.png" alt="day"> 11N / 12D</span></a></div>
                                 <div class="b_pack rows">
                                     <div class="col-md-12 col-sm-12">
-                                        <h4><a href="https://chardhamyatraa.org/tour-packages/#">CHR DHAM YATRA PACKAGES 11N12D<br>EX DELHI</a></h4>
+                                        <h4><a href="https://packagebookinghub.com/tour-packages/#">CHR DHAM YATRA PACKAGES 11N12D<br>EX DELHI</a></h4>
                                         <div class="packDy"> </div>
                                         <div class="listPckB">
                                             <ul>
                                                 <span><img loading="lazy" src="./packagebookinghub_files/loc.png" alt="location">
                                                     Destination</span>
                                                 <li>Delhi</li>
-                                                <li>Haridwar <a href="https://chardhamyatraa.org/tour-packages/#">+ More</a></li>
+                                                <li>Haridwar <a href="https://packagebookinghub.com/tour-packages/#">+ More</a></li>
                                             </ul>
                                             <div class="priceWrapper">
                                                 <span class="lineThroughRed"></span>
@@ -299,26 +299,26 @@ display: none !important;
                                     </div>
                                 </div>
                                 <div class="listPckBotom">
-                                    <div class="makeFlex"><span class="custIcon1"><a type="button" rel="noopener" onclick="window.open(&#39;https://api.whatsapp.com/send?phone=919716674269  &amp;text= Hello Skylink, I am looking for Chardham Tour Packages&#39;,&#39;_blank&#39;,&#39;resizable=yes&#39;)"><img loading="lazy" src="./packagebookinghub_files/whas-ico.png" alt="whas-ico">
+                                    <div class="makeFlex"><span class="custIcon1"><a type="button" rel="noopener" onclick="window.open(&#39;https://api.whatsapp.com/send?phone=919062411615  &amp;text= Hello Package Booking Hub, I am looking for Chardham Tour Packages&#39;,&#39;_blank&#39;,&#39;resizable=yes&#39;)"><img loading="lazy" src="./packagebookinghub_files/whas-ico.png" alt="whas-ico">
                                                 <span>Whatsapp</span></a></span></div>
-                                    <div class="bookIcon1 cbtn"><a href="https://chardhamyatraa.org/tour-packages/chr-dham-yatra-packages-ex-delhi.php">View Details</a> <button type="button" class="enquery_now detail_package" data-bs-toggle="modal" data-bs-target="#enquiryModal">
+                                    <div class="bookIcon1 cbtn"><a href="https://packagebookinghub.com/tour-packages/chr-dham-yatra-packages-ex-delhi.php">View Details</a> <button type="button" class="enquery_now detail_package" data-bs-toggle="modal" data-bs-target="#enquiryModal">
 Enquire Now
 </button></div>
                                 </div>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12 b_packages">
                                 <div class="band"><img src="./packagebookinghub_files/30pack.png" alt="30pack"> </div>
-                                <div class="v_place_img"><a href="https://chardhamyatraa.org/tour-packages/chr-dham-yatra-packages-9n-10d-ex-delhi.php"><img src="./packagebookinghub_files/pipalkoti-tour-package.jpg" alt="Tour Booking" title="Tour Booking"> <span class="daysbadge"><img loading="lazy" src="./packagebookinghub_files/dat.png" alt="day"> 9N / 10D</span></a></div>
+                                <div class="v_place_img"><a href="https://packagebookinghub.com/tour-packages/chr-dham-yatra-packages-9n-10d-ex-delhi.php"><img src="./packagebookinghub_files/pipalkoti-tour-package.jpg" alt="Tour Booking" title="Tour Booking"> <span class="daysbadge"><img loading="lazy" src="./packagebookinghub_files/dat.png" alt="day"> 9N / 10D</span></a></div>
                                 <div class="b_pack rows">
                                     <div class="col-md-12 col-sm-12">
-                                        <h4><a href="https://chardhamyatraa.org/tour-packages/#">CHR DHAM YATRA PACKAGES 09N10D<br>EX DELHI</a></h4>
+                                        <h4><a href="https://packagebookinghub.com/tour-packages/#">CHR DHAM YATRA PACKAGES 09N10D<br>EX DELHI</a></h4>
                                         <div class="packDy"> </div>
                                         <div class="listPckB">
                                             <ul>
                                                 <span><img loading="lazy" src="./packagebookinghub_files/loc.png" alt="location">
                                                     Destination</span>
                                                 <li>Haridwar</li>
-                                                <li>Guptkashi <a href="https://chardhamyatraa.org/tour-packages/#">+ More</a></li>
+                                                <li>Guptkashi <a href="https://packagebookinghub.com/tour-packages/#">+ More</a></li>
                                             </ul>
                                             <div class="priceWrapper">
                                                 <span class="lineThroughRed"></span>
@@ -330,26 +330,26 @@ Enquire Now
                                     </div>
                                 </div>
                                 <div class="listPckBotom">
-                                    <div class="makeFlex"><span class="custIcon1"><a type="button" rel="noopener" onclick="window.open(&#39;https://api.whatsapp.com/send?phone=919716674269  &amp;text= Hello Skylink, I am looking for Chardham Tour Packages&#39;,&#39;_blank&#39;,&#39;resizable=yes&#39;)"><img loading="lazy" src="./packagebookinghub_files/whas-ico.png" alt="whas-ico">
+                                    <div class="makeFlex"><span class="custIcon1"><a type="button" rel="noopener" onclick="window.open(&#39;https://api.whatsapp.com/send?phone=919062411615  &amp;text= Hello Package Booking Hub, I am looking for Chardham Tour Packages&#39;,&#39;_blank&#39;,&#39;resizable=yes&#39;)"><img loading="lazy" src="./packagebookinghub_files/whas-ico.png" alt="whas-ico">
                                                 <span>Whatsapp</span></a></span></div>
-                                    <div class="bookIcon1 cbtn"><a href="https://chardhamyatraa.org/tour-packages/chr-dham-yatra-packages-9n-10d-ex-delhi.php">View Details</a><button type="button" class="enquery_now detail_package" data-bs-toggle="modal" data-bs-target="#enquiryModal">
+                                    <div class="bookIcon1 cbtn"><a href="https://packagebookinghub.com/tour-packages/chr-dham-yatra-packages-9n-10d-ex-delhi.php">View Details</a><button type="button" class="enquery_now detail_package" data-bs-toggle="modal" data-bs-target="#enquiryModal">
 Enquire Now
 </button></div>
                                 </div>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12 b_packages">
                                 <div class="band"><img src="./packagebookinghub_files/30pack.png" alt="30pack"> </div>
-                                <div class="v_place_img"><a href="https://chardhamyatraa.org/tour-packages/chardham-by-helicopter.php"><img src="./packagebookinghub_files/chardhamyatrabyhelicopter.jpg" alt="Tour Booking" title="Tour Booking"> <span class="daysbadge"><img loading="lazy" src="./packagebookinghub_files/dat.png" alt="day"> 4N / 5D</span></a></div>
+                                <div class="v_place_img"><a href="https://packagebookinghub.com/tour-packages/chardham-by-helicopter.php"><img src="./packagebookinghub_files/chardhamyatrabyhelicopter.jpg" alt="Tour Booking" title="Tour Booking"> <span class="daysbadge"><img loading="lazy" src="./packagebookinghub_files/dat.png" alt="day"> 4N / 5D</span></a></div>
                                 <div class="b_pack rows">
                                     <div class="col-md-12 col-sm-12">
-                                        <h4><a href="https://chardhamyatraa.org/tour-packages/#">CHARDHAM BY HELICOPTER 4N5D </a></h4>
+                                        <h4><a href="https://packagebookinghub.com/tour-packages/#">CHARDHAM BY HELICOPTER 4N5D </a></h4>
                                         <div class="packDy"> </div>
                                         <div class="listPckB">
                                             <ul>
                                                 <span><img loading="lazy" src="./packagebookinghub_files/loc.png" alt="location">
                                                     Destination</span>
                                                 <li>Yamunotri</li>
-                                                <li>Kedarnath <a href="https://chardhamyatraa.org/tour-packages/#">+ More</a></li>
+                                                <li>Kedarnath <a href="https://packagebookinghub.com/tour-packages/#">+ More</a></li>
                                             </ul>
                                             <div class="priceWrapper">
                                                 <span class="lineThroughRed"></span>
@@ -361,9 +361,9 @@ Enquire Now
                                     </div>
                                 </div>
                                 <div class="listPckBotom">
-                                    <div class="makeFlex"><span class="custIcon1"><a type="button" rel="noopener" onclick="window.open(&#39;https://api.whatsapp.com/send?phone=919716674269  &amp;text= Hello Skylink, I am looking for Chardham Tour Packages&#39;,&#39;_blank&#39;,&#39;resizable=yes&#39;)"><img loading="lazy" src="./packagebookinghub_files/whas-ico.png" alt="whas-ico">
+                                    <div class="makeFlex"><span class="custIcon1"><a type="button" rel="noopener" onclick="window.open(&#39;https://api.whatsapp.com/send?phone=919062411615  &amp;text= Hello Package Booking Hub, I am looking for Chardham Tour Packages&#39;,&#39;_blank&#39;,&#39;resizable=yes&#39;)"><img loading="lazy" src="./packagebookinghub_files/whas-ico.png" alt="whas-ico">
                                                 <span>Whatsapp</span></a></span></div>
-                                    <div class="bookIcon1 cbtn"><a href="https://chardhamyatraa.org/tour-packages/chardham-by-helicopter.php">View Details</a><button type="button" class="enquery_now detail_package" data-bs-toggle="modal" data-bs-target="#enquiryModal">
+                                    <div class="bookIcon1 cbtn"><a href="https://packagebookinghub.com/tour-packages/chardham-by-helicopter.php">View Details</a><button type="button" class="enquery_now detail_package" data-bs-toggle="modal" data-bs-target="#enquiryModal">
 Enquire Now
 </button></div>
                                 </div>
@@ -371,17 +371,17 @@ Enquire Now
                             
                             <div class="col-md-4 col-sm-6 col-xs-12 b_packages">
                                 <div class="band"><img src="./packagebookinghub_files/30pack.png" alt="30pack"> </div>
-                                <div class="v_place_img"><a href="https://chardhamyatraa.org/tour-packages/chr-dham-yatra-packages-ex-haridwar.php"><img src="./packagebookinghub_files/chardhamyatrabyheli.jpg" alt="Tour Booking" title="Tour Booking"> <span class="daysbadge"><img loading="lazy" src="./packagebookinghub_files/dat.png" alt="day"> 9N / 10D</span></a></div>
+                                <div class="v_place_img"><a href="https://packagebookinghub.com/tour-packages/chr-dham-yatra-packages-ex-haridwar.php"><img src="./packagebookinghub_files/chardhamyatrabyheli.jpg" alt="Tour Booking" title="Tour Booking"> <span class="daysbadge"><img loading="lazy" src="./packagebookinghub_files/dat.png" alt="day"> 9N / 10D</span></a></div>
                                 <div class="b_pack rows">
                                     <div class="col-md-12 col-sm-12">
-                                        <h4><a href="https://chardhamyatraa.org/tour-packages/#">CHR DHAM YATRA PACKAGES 09N10D<br>EX HARIDWAR  </a></h4>
+                                        <h4><a href="https://packagebookinghub.com/tour-packages/#">CHR DHAM YATRA PACKAGES 09N10D<br>EX HARIDWAR  </a></h4>
                                 <div class="packDy"> </div>
                                         <div class="listPckB">
                                             <ul>
                                                 <span><img loading="lazy" src="./packagebookinghub_files/loc.png" alt="location">
                                                     Destination</span>
                                                 <li>Yamunaotri</li>
-                                                <li>Gangotri <a href="https://chardhamyatraa.org/tour-packages/#">+ More</a></li>
+                                                <li>Gangotri <a href="https://packagebookinghub.com/tour-packages/#">+ More</a></li>
                                             </ul>
                                             <div class="priceWrapper">
                                                 <span class="lineThroughRed"></span>
@@ -393,26 +393,26 @@ Enquire Now
                                     </div>
                                 </div>
                                 <div class="listPckBotom">
-                                    <div class="makeFlex"><span class="custIcon1"><a type="button" rel="noopener" onclick="window.open(&#39;https://api.whatsapp.com/send?phone=919716674269  &amp;text= Hello Skylink, I am looking for Chardham Tour Packages&#39;,&#39;_blank&#39;,&#39;resizable=yes&#39;)"><img loading="lazy" src="./packagebookinghub_files/whas-ico.png" alt="whas-ico">
+                                    <div class="makeFlex"><span class="custIcon1"><a type="button" rel="noopener" onclick="window.open(&#39;https://api.whatsapp.com/send?phone=919062411615  &amp;text= Hello Package Booking Hub, I am looking for Chardham Tour Packages&#39;,&#39;_blank&#39;,&#39;resizable=yes&#39;)"><img loading="lazy" src="./packagebookinghub_files/whas-ico.png" alt="whas-ico">
                                                 <span>Whatsapp</span></a></span></div>
-                                    <div class="bookIcon1 cbtn"><a href="https://chardhamyatraa.org/tour-packages/chr-dham-yatra-packages-ex-haridwar.php">View Details</a><button type="button" class="enquery_now detail_package" data-bs-toggle="modal" data-bs-target="#enquiryModal">
+                                    <div class="bookIcon1 cbtn"><a href="https://packagebookinghub.com/tour-packages/chr-dham-yatra-packages-ex-haridwar.php">View Details</a><button type="button" class="enquery_now detail_package" data-bs-toggle="modal" data-bs-target="#enquiryModal">
 Enquire Now
 </button></div>
                                 </div>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12 b_packages">
                                 <div class="band"><img src="./packagebookinghub_files/30pack.png" alt="30pack"> </div>
-                                <div class="v_place_img"><a href="https://chardhamyatraa.org/tour-packages/chr-dham-yatra-packages-8n-9d-ex-haridwar.php"><img src="./packagebookinghub_files/hemkund-valley-of-flowers-yatra.jpg" alt="Tour Booking" title="Tour Booking"> <span class="daysbadge"><img loading="lazy" src="./packagebookinghub_files/dat.png" alt="day"> 8N / 9D</span></a></div>
+                                <div class="v_place_img"><a href="https://packagebookinghub.com/tour-packages/chr-dham-yatra-packages-8n-9d-ex-haridwar.php"><img src="./packagebookinghub_files/hemkund-valley-of-flowers-yatra.jpg" alt="Tour Booking" title="Tour Booking"> <span class="daysbadge"><img loading="lazy" src="./packagebookinghub_files/dat.png" alt="day"> 8N / 9D</span></a></div>
                                 <div class="b_pack rows">
                                     <div class="col-md-12 col-sm-12">
-                                        <h4><a href="https://chardhamyatraa.org/tour-packages/#">CHR DHAM YATRA PACKAGES 08N09D<br>EX HARIDWAR </a></h4>
+                                        <h4><a href="https://packagebookinghub.com/tour-packages/#">CHR DHAM YATRA PACKAGES 08N09D<br>EX HARIDWAR </a></h4>
                                         <div class="packDy"> </div>
                                         <div class="listPckB">
                                             <ul>
                                                 <span><img loading="lazy" src="./packagebookinghub_files/loc.png" alt="location">
                                                     Destination</span>
                                                 <li>Ghangaria</li>
-                                                <li>Govindghat <a href="https://chardhamyatraa.org/tour-packages/#">+ More</a></li>
+                                                <li>Govindghat <a href="https://packagebookinghub.com/tour-packages/#">+ More</a></li>
                                             </ul>
                                             <div class="priceWrapper">
                                                 <span class="lineThroughRed"></span>
@@ -424,26 +424,26 @@ Enquire Now
                                     </div>
                                 </div>
                                 <div class="listPckBotom">
-                                    <div class="makeFlex"><span class="custIcon1"><a type="button" rel="noopener" onclick="window.open(&#39;https://api.whatsapp.com/send?phone=919716674269  &amp;text= Hello Skylink, I am looking for Chardham Tour Packages&#39;,&#39;_blank&#39;,&#39;resizable=yes&#39;)"><img loading="lazy" src="./packagebookinghub_files/whas-ico.png" alt="whas-ico">
+                                    <div class="makeFlex"><span class="custIcon1"><a type="button" rel="noopener" onclick="window.open(&#39;https://api.whatsapp.com/send?phone=919062411615  &amp;text= Hello Package Booking Hub, I am looking for Chardham Tour Packages&#39;,&#39;_blank&#39;,&#39;resizable=yes&#39;)"><img loading="lazy" src="./packagebookinghub_files/whas-ico.png" alt="whas-ico">
                                                 <span>Whatsapp</span></a></span></div>
-                                    <div class="bookIcon1 cbtn"><a href="https://chardhamyatraa.org/tour-packages/chr-dham-yatra-packages-8n-9d-ex-haridwar.php">View Details</a><button type="button" class="enquery_now detail_package" data-bs-toggle="modal" data-bs-target="#enquiryModal">
+                                    <div class="bookIcon1 cbtn"><a href="https://packagebookinghub.com/tour-packages/chr-dham-yatra-packages-8n-9d-ex-haridwar.php">View Details</a><button type="button" class="enquery_now detail_package" data-bs-toggle="modal" data-bs-target="#enquiryModal">
 Enquire Now
 </button></div>
                                 </div>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12 b_packages">
                                 <div class="band"><img src="./packagebookinghub_files/30pack.png" alt="30pack"> </div>
-                                <div class="v_place_img"><a href="https://chardhamyatraa.org/tour-packages/dodham-yatra-ex-haridwar.php"><img src="./packagebookinghub_files/dodham-yatra-tour-package.jpg" alt="Tour Booking" title="Tour Booking"> <span class="daysbadge"><img loading="lazy" src="./packagebookinghub_files/dat.png" alt="day"> 4N / 5D</span></a></div>
+                                <div class="v_place_img"><a href="https://packagebookinghub.com/tour-packages/dodham-yatra-ex-haridwar.php"><img src="./packagebookinghub_files/dodham-yatra-tour-package.jpg" alt="Tour Booking" title="Tour Booking"> <span class="daysbadge"><img loading="lazy" src="./packagebookinghub_files/dat.png" alt="day"> 4N / 5D</span></a></div>
                                 <div class="b_pack rows">
                                     <div class="col-md-12 col-sm-12">
-                                        <h4><a href="https://chardhamyatraa.org/tour-packages/#">DO DHAM YATRA EX HARIDWAR 4N5D </a></h4>
+                                        <h4><a href="https://packagebookinghub.com/tour-packages/#">DO DHAM YATRA EX HARIDWAR 4N5D </a></h4>
                                         <div class="packDy"> </div>
                                         <div class="listPckB">
                                             <ul>
                                                 <span><img loading="lazy" src="./packagebookinghub_files/loc.png" alt="location">
                                                     Destination</span>
                                                 <li>Rampur</li>
-                                                <li>Badrinath <a href="https://chardhamyatraa.org/tour-packages/#">+ More</a></li>
+                                                <li>Badrinath <a href="https://packagebookinghub.com/tour-packages/#">+ More</a></li>
                                             </ul>
                                             <div class="priceWrapper">
                                                 <span class="lineThroughRed"></span>
@@ -455,9 +455,9 @@ Enquire Now
                                     </div>
                                 </div>
                                 <div class="listPckBotom">
-                                    <div class="makeFlex"><span class="custIcon1"><a type="button" rel="noopener" onclick="window.open(&#39;https://api.whatsapp.com/send?phone=919716674269  &amp;text= Hello Skylink, I am looking for Chardham Tour Packages&#39;,&#39;_blank&#39;,&#39;resizable=yes&#39;)"><img loading="lazy" src="./packagebookinghub_files/whas-ico.png" alt="whas-ico">
+                                    <div class="makeFlex"><span class="custIcon1"><a type="button" rel="noopener" onclick="window.open(&#39;https://api.whatsapp.com/send?phone=919062411615  &amp;text= Hello Package Booking Hub, I am looking for Chardham Tour Packages&#39;,&#39;_blank&#39;,&#39;resizable=yes&#39;)"><img loading="lazy" src="./packagebookinghub_files/whas-ico.png" alt="whas-ico">
                                                 <span>Whatsapp</span></a></span></div>
-                                    <div class="bookIcon1 cbtn"><a href="https://chardhamyatraa.org/tour-packages/dodham-yatra-ex-haridwar.php">View Details</a><button type="button" class="enquery_now detail_package" data-bs-toggle="modal" data-bs-target="#enquiryModal">
+                                    <div class="bookIcon1 cbtn"><a href="https://packagebookinghub.com/tour-packages/dodham-yatra-ex-haridwar.php">View Details</a><button type="button" class="enquery_now detail_package" data-bs-toggle="modal" data-bs-target="#enquiryModal">
 Enquire Now
 </button></div>
                                 </div>
@@ -465,17 +465,17 @@ Enquire Now
                             
                             <div class="col-md-4 col-sm-6 col-xs-12 b_packages">
                                 <div class="band"><img src="./packagebookinghub_files/30pack.png" alt="30pack"> </div>
-                                <div class="v_place_img"><a href="https://chardhamyatraa.org/tour-packages/dodham-yatra-ex-haridwar-5n-6d.php"><img src="./packagebookinghub_files/dodham-yatra-form-haridwar.jpg" alt="Tour Booking" title="Tour Booking"> <span class="daysbadge"><img loading="lazy" src="./packagebookinghub_files/dat.png" alt="day"> 5N / 6D</span></a></div>
+                                <div class="v_place_img"><a href="https://packagebookinghub.com/tour-packages/dodham-yatra-ex-haridwar-5n-6d.php"><img src="./packagebookinghub_files/dodham-yatra-form-haridwar.jpg" alt="Tour Booking" title="Tour Booking"> <span class="daysbadge"><img loading="lazy" src="./packagebookinghub_files/dat.png" alt="day"> 5N / 6D</span></a></div>
                                 <div class="b_pack rows">
                                     <div class="col-md-12 col-sm-12">
-                                        <h4><a href="https://chardhamyatraa.org/tour-packages/#">DO DHAM YATRA EX HARIDWAR 5N6D</a></h4>
+                                        <h4><a href="https://packagebookinghub.com/tour-packages/#">DO DHAM YATRA EX HARIDWAR 5N6D</a></h4>
                                         <div class="packDy"> </div>
                                         <div class="listPckB">
                                             <ul>
                                                 <span><img loading="lazy" src="./packagebookinghub_files/loc.png" alt="location">
                                                     Destination</span>
                                                 <li>Haridwar</li>
-                                                <li>Badrinath <a href="https://chardhamyatraa.org/tour-packages/#">+ More</a></li>
+                                                <li>Badrinath <a href="https://packagebookinghub.com/tour-packages/#">+ More</a></li>
                                             </ul>
                                             <div class="priceWrapper">
                                                 <span class="lineThroughRed"></span>
@@ -487,26 +487,26 @@ Enquire Now
                                     </div>
                                 </div>
                                 <div class="listPckBotom">
-                                    <div class="makeFlex"><span class="custIcon1"><a type="button" rel="noopener" onclick="window.open(&#39;https://api.whatsapp.com/send?phone=919716674269  &amp;text= Hello Skylink, I am looking for Chardham Tour Packages&#39;,&#39;_blank&#39;,&#39;resizable=yes&#39;)"><img loading="lazy" src="./packagebookinghub_files/whas-ico.png" alt="whas-ico">
+                                    <div class="makeFlex"><span class="custIcon1"><a type="button" rel="noopener" onclick="window.open(&#39;https://api.whatsapp.com/send?phone=919062411615  &amp;text= Hello Package Booking Hub, I am looking for Chardham Tour Packages&#39;,&#39;_blank&#39;,&#39;resizable=yes&#39;)"><img loading="lazy" src="./packagebookinghub_files/whas-ico.png" alt="whas-ico">
                                                 <span>Whatsapp</span></a></span></div>
-                                    <div class="bookIcon1 cbtn"><a href="https://chardhamyatraa.org/tour-packages/dodham-yatra-ex-haridwar-5n-6d.php">View Details</a><button type="button" class="enquery_now detail_package" data-bs-toggle="modal" data-bs-target="#enquiryModal">
+                                    <div class="bookIcon1 cbtn"><a href="https://packagebookinghub.com/tour-packages/dodham-yatra-ex-haridwar-5n-6d.php">View Details</a><button type="button" class="enquery_now detail_package" data-bs-toggle="modal" data-bs-target="#enquiryModal">
 Enquire Now
 </button></div>
                                 </div>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12 b_packages">
                                 <div class="band"><img src="./packagebookinghub_files/30pack.png" alt="30pack"> </div>
-                                <div class="v_place_img"><a href="https://chardhamyatraa.org/tour-packages/chr-dham-yatra-packages-ex-delhi.php"><img src="./packagebookinghub_files/hemkund-valley-of-flowers-yatra.jpg" alt="Tour Booking" title="Tour Booking"> <span class="daysbadge"><img loading="lazy" src="./packagebookinghub_files/dat.png" alt="day"> 6N / 7D</span></a></div>
+                                <div class="v_place_img"><a href="https://packagebookinghub.com/tour-packages/chr-dham-yatra-packages-ex-delhi.php"><img src="./packagebookinghub_files/hemkund-valley-of-flowers-yatra.jpg" alt="Tour Booking" title="Tour Booking"> <span class="daysbadge"><img loading="lazy" src="./packagebookinghub_files/dat.png" alt="day"> 6N / 7D</span></a></div>
                                 <div class="b_pack rows">
                                     <div class="col-md-12 col-sm-12">
-                                        <h4><a href="https://chardhamyatraa.org/tour-packages/#">DO DHAM YATRA EX DELHI 6N7D</a></h4>
+                                        <h4><a href="https://packagebookinghub.com/tour-packages/#">DO DHAM YATRA EX DELHI 6N7D</a></h4>
                                         <div class="packDy"> </div>
                                         <div class="listPckB">
                                             <ul>
                                                 <span><img loading="lazy" src="./packagebookinghub_files/loc.png" alt="location">
                                                     Destination</span>
                                                 <li>Ghangaria</li>
-                                                <li>Govindghat <a href="https://chardhamyatraa.org/tour-packages/#">+ More</a></li>
+                                                <li>Govindghat <a href="https://packagebookinghub.com/tour-packages/#">+ More</a></li>
                                             </ul>
                                             <div class="priceWrapper">
                                                 <span class="lineThroughRed"></span>
@@ -518,26 +518,26 @@ Enquire Now
                                     </div>
                                 </div>
                                 <div class="listPckBotom">
-                                    <div class="makeFlex"><span class="custIcon1"><a type="button" rel="noopener" onclick="window.open(&#39;https://api.whatsapp.com/send?phone=919716674269  &amp;text= Hello Skylink, I am looking for Chardham Tour Packages&#39;,&#39;_blank&#39;,&#39;resizable=yes&#39;)"><img loading="lazy" src="./packagebookinghub_files/whas-ico.png" alt="whas-ico">
+                                    <div class="makeFlex"><span class="custIcon1"><a type="button" rel="noopener" onclick="window.open(&#39;https://api.whatsapp.com/send?phone=919062411615  &amp;text= Hello Package Booking Hub, I am looking for Chardham Tour Packages&#39;,&#39;_blank&#39;,&#39;resizable=yes&#39;)"><img loading="lazy" src="./packagebookinghub_files/whas-ico.png" alt="whas-ico">
                                                 <span>Whatsapp</span></a></span></div>
-                                    <div class="bookIcon1 cbtn"><a href="https://chardhamyatraa.org/tour-packages/chr-dham-yatra-packages-ex-delhi.php">View Details</a><button type="button" class="enquery_now detail_package" data-bs-toggle="modal" data-bs-target="#enquiryModal">
+                                    <div class="bookIcon1 cbtn"><a href="https://packagebookinghub.com/tour-packages/chr-dham-yatra-packages-ex-delhi.php">View Details</a><button type="button" class="enquery_now detail_package" data-bs-toggle="modal" data-bs-target="#enquiryModal">
 Enquire Now
 </button></div>
                                 </div>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12 b_packages">
                                 <div class="band"><img src="./packagebookinghub_files/30pack.png" alt="30pack"> </div>
-                                <div class="v_place_img"><a href="https://chardhamyatraa.org/tour-packages/kedarnathji-yatra-ex-haridwar.php"><img src="./packagebookinghub_files/dodham-yatra-tour-package.jpg" alt="Tour Booking" title="Tour Booking"> <span class="daysbadge"><img loading="lazy" src="./packagebookinghub_files/dat.png" alt="day"> 8N / 9D</span></a></div>
+                                <div class="v_place_img"><a href="https://packagebookinghub.com/tour-packages/kedarnathji-yatra-ex-haridwar.php"><img src="./packagebookinghub_files/dodham-yatra-tour-package.jpg" alt="Tour Booking" title="Tour Booking"> <span class="daysbadge"><img loading="lazy" src="./packagebookinghub_files/dat.png" alt="day"> 8N / 9D</span></a></div>
                                 <div class="b_pack rows">
                                     <div class="col-md-12 col-sm-12">
-                                        <h4><a href="https://chardhamyatraa.org/tour-packages/#">DO DHAM HELICOPTER SAME DAY <br>RETURN </a></h4>
+                                        <h4><a href="https://packagebookinghub.com/tour-packages/#">DO DHAM HELICOPTER SAME DAY <br>RETURN </a></h4>
                                         <div class="packDy"> </div>
                                         <div class="listPckB">
                                             <ul>
                                                 <span><img loading="lazy" src="./packagebookinghub_files/loc.png" alt="location">
                                                     Destination</span>
                                                 <li>Rampur</li>
-                                                <li>Badrinath <a href="https://chardhamyatraa.org/tour-packages/#">+ More</a></li>
+                                                <li>Badrinath <a href="https://packagebookinghub.com/tour-packages/#">+ More</a></li>
                                             </ul>
                                             <div class="priceWrapper">
                                                 <span class="lineThroughRed"></span>
@@ -549,9 +549,9 @@ Enquire Now
                                     </div>
                                 </div>
                                 <div class="listPckBotom">
-                                    <div class="makeFlex"><span class="custIcon1"><a type="button" rel="noopener" onclick="window.open(&#39;https://api.whatsapp.com/send?phone=919716674269  &amp;text= Hello Skylink, I am looking for Chardham Tour Packages&#39;,&#39;_blank&#39;,&#39;resizable=yes&#39;)"><img loading="lazy" src="./packagebookinghub_files/whas-ico.png" alt="whas-ico">
+                                    <div class="makeFlex"><span class="custIcon1"><a type="button" rel="noopener" onclick="window.open(&#39;https://api.whatsapp.com/send?phone=919062411615  &amp;text= Hello Package Booking Hub, I am looking for Chardham Tour Packages&#39;,&#39;_blank&#39;,&#39;resizable=yes&#39;)"><img loading="lazy" src="./packagebookinghub_files/whas-ico.png" alt="whas-ico">
                                                 <span>Whatsapp</span></a></span></div>
-                                    <div class="bookIcon1 cbtn"><a href="https://chardhamyatraa.org/tour-packages/kedarnathji-yatra-ex-haridwar.php">View Details</a><button type="button" class="enquery_now detail_package" data-bs-toggle="modal" data-bs-target="#enquiryModal">
+                                    <div class="bookIcon1 cbtn"><a href="https://packagebookinghub.com/tour-packages/kedarnathji-yatra-ex-haridwar.php">View Details</a><button type="button" class="enquery_now detail_package" data-bs-toggle="modal" data-bs-target="#enquiryModal">
 Enquire Now
 </button></div>
                                 </div>
@@ -559,17 +559,17 @@ Enquire Now
                             
                             <div class="col-md-4 col-sm-6 col-xs-12 b_packages">
                                 <div class="band"><img src="./packagebookinghub_files/30pack.png" alt="30pack"> </div>
-                                <div class="v_place_img"><a href="https://chardhamyatraa.org/tour-packages/kedarnathji-yatra-ex-haridwar.php"><img src="./packagebookinghub_files/pipalkoti-tour-package.jpg" alt="Tour Booking" title="Tour Booking"> <span class="daysbadge"><img loading="lazy" src="./packagebookinghub_files/dat.png" alt="day"> 2N / 3D</span></a></div>
+                                <div class="v_place_img"><a href="https://packagebookinghub.com/tour-packages/kedarnathji-yatra-ex-haridwar.php"><img src="./packagebookinghub_files/pipalkoti-tour-package.jpg" alt="Tour Booking" title="Tour Booking"> <span class="daysbadge"><img loading="lazy" src="./packagebookinghub_files/dat.png" alt="day"> 2N / 3D</span></a></div>
                                 <div class="b_pack rows">
                                     <div class="col-md-12 col-sm-12">
-                                        <h4><a href="https://chardhamyatraa.org/tour-packages/#">KEDARNATHJI YATRA EX HARIDWAR </a></h4>
+                                        <h4><a href="https://packagebookinghub.com/tour-packages/#">KEDARNATHJI YATRA EX HARIDWAR </a></h4>
                                         <div class="packDy"> </div>
                                         <div class="listPckB">
                                             <ul>
                                                 <span><img loading="lazy" src="./packagebookinghub_files/loc.png" alt="location">
                                                     Destination</span>
                                                 <li>Haridwar</li>
-                                                <li>Guptkashi <a href="https://chardhamyatraa.org/tour-packages/#">+ More</a></li>
+                                                <li>Guptkashi <a href="https://packagebookinghub.com/tour-packages/#">+ More</a></li>
                                             </ul>
                                             <div class="priceWrapper">
                                                 <span class="lineThroughRed"></span>
@@ -581,26 +581,26 @@ Enquire Now
                                     </div>
                                 </div>
                                 <div class="listPckBotom">
-                                    <div class="makeFlex"><span class="custIcon1"><a type="button" rel="noopener" onclick="window.open(&#39;https://api.whatsapp.com/send?phone=919716674269  &amp;text= Hello Skylink, I am looking for Chardham Tour Packages&#39;,&#39;_blank&#39;,&#39;resizable=yes&#39;)"><img loading="lazy" src="./packagebookinghub_files/whas-ico.png" alt="whas-ico">
+                                    <div class="makeFlex"><span class="custIcon1"><a type="button" rel="noopener" onclick="window.open(&#39;https://api.whatsapp.com/send?phone=919062411615  &amp;text= Hello Package Booking Hub, I am looking for Chardham Tour Packages&#39;,&#39;_blank&#39;,&#39;resizable=yes&#39;)"><img loading="lazy" src="./packagebookinghub_files/whas-ico.png" alt="whas-ico">
                                                 <span>Whatsapp</span></a></span></div>
-                                    <div class="bookIcon1 cbtn"><a href="https://chardhamyatraa.org/tour-packages/kedarnathji-yatra-ex-haridwar.php">View Details</a><button type="button" class="enquery_now detail_package" data-bs-toggle="modal" data-bs-target="#enquiryModal">
+                                    <div class="bookIcon1 cbtn"><a href="https://packagebookinghub.com/tour-packages/kedarnathji-yatra-ex-haridwar.php">View Details</a><button type="button" class="enquery_now detail_package" data-bs-toggle="modal" data-bs-target="#enquiryModal">
 Enquire Now
 </button></div>
                                 </div>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12 b_packages">
                                 <div class="band"><img src="./packagebookinghub_files/50pack.png" alt="50pack"> </div>
-                                <div class="v_place_img"><a href="https://chardhamyatraa.org/tour-packages/kedarnathji-yatra-ex-delhi.php"><img src="./packagebookinghub_files/shutterstock_375337852_20170830115308.jpg" alt="Tour Booking" title="Tour Booking"> <span class="daysbadge"><img loading="lazy" src="./packagebookinghub_files/dat.png" alt="day"> 4N / 5D</span></a></div>
+                                <div class="v_place_img"><a href="https://packagebookinghub.com/tour-packages/kedarnathji-yatra-ex-delhi.php"><img src="./packagebookinghub_files/shutterstock_375337852_20170830115308.jpg" alt="Tour Booking" title="Tour Booking"> <span class="daysbadge"><img loading="lazy" src="./packagebookinghub_files/dat.png" alt="day"> 4N / 5D</span></a></div>
                                 <div class="b_pack rows">
                                     <div class="col-md-12 col-sm-12">
-                                        <h4><a href="https://chardhamyatraa.org/tour-packages/#">KEDARNATHJI YATRA EX DELHI 4N5D</a></h4>
+                                        <h4><a href="https://packagebookinghub.com/tour-packages/#">KEDARNATHJI YATRA EX DELHI 4N5D</a></h4>
                                         <div class="packDy"> </div>
                                         <div class="listPckB">
                                             <ul>
                                                 <span><img loading="lazy" src="./packagebookinghub_files/loc.png" alt="location">
                                                     Destination</span>
                                                 <li>Haridwar</li>
-                                                <li>Badrinath <a href="https://chardhamyatraa.org/tour-packages/#">+ More</a></li>
+                                                <li>Badrinath <a href="https://packagebookinghub.com/tour-packages/#">+ More</a></li>
                                             </ul>
                                             <div class="priceWrapper">
                                                 <span class="lineThroughRed"></span>
@@ -612,26 +612,26 @@ Enquire Now
                                     </div>
                                 </div>
                                 <div class="listPckBotom">
-                                    <div class="makeFlex"><span class="custIcon1"><a type="button" rel="noopener" onclick="window.open(&#39;https://api.whatsapp.com/send?phone=919716674269  &amp;text= Hello Skylink, I am looking for Chardham Tour Packages&#39;,&#39;_blank&#39;,&#39;resizable=yes&#39;)"><img loading="lazy" src="./packagebookinghub_files/whas-ico.png" alt="whas-ico">
+                                    <div class="makeFlex"><span class="custIcon1"><a type="button" rel="noopener" onclick="window.open(&#39;https://api.whatsapp.com/send?phone=919062411615  &amp;text= Hello Package Booking Hub, I am looking for Chardham Tour Packages&#39;,&#39;_blank&#39;,&#39;resizable=yes&#39;)"><img loading="lazy" src="./packagebookinghub_files/whas-ico.png" alt="whas-ico">
                                                 <span>Whatsapp</span></a></span></div>
-                                    <div class="bookIcon1 cbtn"><a href="https://chardhamyatraa.org/tour-packages/kedarnathji-yatra-ex-delhi.php">View Details</a><button type="button" class="enquery_now detail_package" data-bs-toggle="modal" data-bs-target="#enquiryModal">
+                                    <div class="bookIcon1 cbtn"><a href="https://packagebookinghub.com/tour-packages/kedarnathji-yatra-ex-delhi.php">View Details</a><button type="button" class="enquery_now detail_package" data-bs-toggle="modal" data-bs-target="#enquiryModal">
 Enquire Now
 </button></div>
                                 </div>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12 b_packages">
                                 <div class="band"><img src="./packagebookinghub_files/30pack.png" alt="30pack"> </div>
-                                <div class="v_place_img"><a href="https://chardhamyatraa.org/tour-packages/panch-kedar-tour-package.php"><img src="./packagebookinghub_files/Panch-Kedar-Yatra.jpg" alt="Tour Booking" title="Tour Booking"> <span class="daysbadge"><img loading="lazy" src="./packagebookinghub_files/dat.png" alt="day"> 15N / 16D</span></a></div>
+                                <div class="v_place_img"><a href="https://packagebookinghub.com/tour-packages/panch-kedar-tour-package.php"><img src="./packagebookinghub_files/Panch-Kedar-Yatra.jpg" alt="Tour Booking" title="Tour Booking"> <span class="daysbadge"><img loading="lazy" src="./packagebookinghub_files/dat.png" alt="day"> 15N / 16D</span></a></div>
                                 <div class="b_pack rows">
                                     <div class="col-md-12 col-sm-12">
-                                        <h4><a href="https://chardhamyatraa.org/tour-packages/#">PANCH KEDAR TOUR PACKAGE</a></h4>
+                                        <h4><a href="https://packagebookinghub.com/tour-packages/#">PANCH KEDAR TOUR PACKAGE</a></h4>
                                         <div class="packDy"> </div>
                                         <div class="listPckB">
                                             <ul>
                                                 <span><img loading="lazy" src="./packagebookinghub_files/loc.png" alt="location">
                                                     Destination</span>
                                                 <li>Kedarnath</li>
-                                                <li>Gaurikund <a href="https://chardhamyatraa.org/tour-packages/#">+ More</a></li>
+                                                <li>Gaurikund <a href="https://packagebookinghub.com/tour-packages/#">+ More</a></li>
                                             </ul>
                                             <div class="priceWrapper">
                                                 <!-- <p class="font1">(Price on Request)</p> -->
@@ -643,9 +643,9 @@ Enquire Now
                                     </div>
                                 </div>
                                 <div class="listPckBotom">
-                                    <div class="makeFlex"><span class="custIcon1"><a type="button" rel="noopener" onclick="window.open(&#39;https://api.whatsapp.com/send?phone=919716674269  &amp;text= Hello Skylink, I am looking for Chardham Tour Packages&#39;,&#39;_blank&#39;,&#39;resizable=yes&#39;)"><img loading="lazy" src="./packagebookinghub_files/whas-ico.png" alt="whas-ico">
+                                    <div class="makeFlex"><span class="custIcon1"><a type="button" rel="noopener" onclick="window.open(&#39;https://api.whatsapp.com/send?phone=919062411615  &amp;text= Hello Package Booking Hub, I am looking for Chardham Tour Packages&#39;,&#39;_blank&#39;,&#39;resizable=yes&#39;)"><img loading="lazy" src="./packagebookinghub_files/whas-ico.png" alt="whas-ico">
                                                 <span>Whatsapp</span></a></span></div>
-                                    <div class="bookIcon1 cbtn"><a href="https://chardhamyatraa.org/tour-packages/panch-kedar-tour-package.php">View Details</a>
+                                    <div class="bookIcon1 cbtn"><a href="https://packagebookinghub.com/tour-packages/panch-kedar-tour-package.php">View Details</a>
                                     <button type="button" class="enquery_now detail_package" data-bs-toggle="modal" data-bs-target="#enquiryModal">
 Enquire Now
 </button></div>
@@ -766,7 +766,7 @@ Enquire Now
                     <div class="destination-area title_paddings">
                         <div class="section-head-alpha text-center">
                             <h2>Customer Reviews <span class="blue-color"></span></h2>
-                            <p>Explore Chardham with Skylink Holiday</p>
+                            <p>Explore Chardham with Package Booking Hub Holiday</p>
                         </div>
                     </div>
 
@@ -840,15 +840,15 @@ Enquire Now
             <div class="row">
                 <div class="col-md-12">
                     <ul class="ftr-link packages_footer">
-                        <li><a href="https://chardhamyatraa.org/tour-packages/index.php">KEDARNATH</a></li>
-                        <li><a href="https://chardhamyatraa.org/tour-packages/index.php">BADRINATH</a></li>
-                        <li><a href="https://chardhamyatraa.org/tour-packages/index.php">YAMUNAOTRI</a></li>
-                        <li><a href="https://chardhamyatraa.org/tour-packages/index.php">GANGOTRI</a></li>
-                        <li><a href="https://chardhamyatraa.org/tour-packages/index.php">HARIDWAR</a></li>
-                        <li><a href="https://chardhamyatraa.org/tour-packages/index.php">RISHIKESH</a></li>
-                        <li><a href="https://chardhamyatraa.org/tour-packages/index.php">GAURIKUND</a></li>
-                        <li><a href="https://chardhamyatraa.org/tour-packages/index.php">RUDRAPRAYAG</a></li>
-                        <li><a href="https://chardhamyatraa.org/tour-packages/index.php">JOSHIMATH</a></li>
+                        <li><a href="https://packagebookinghub.com/tour-packages/index.php">KEDARNATH</a></li>
+                        <li><a href="https://packagebookinghub.com/tour-packages/index.php">BADRINATH</a></li>
+                        <li><a href="https://packagebookinghub.com/tour-packages/index.php">YAMUNAOTRI</a></li>
+                        <li><a href="https://packagebookinghub.com/tour-packages/index.php">GANGOTRI</a></li>
+                        <li><a href="https://packagebookinghub.com/tour-packages/index.php">HARIDWAR</a></li>
+                        <li><a href="https://packagebookinghub.com/tour-packages/index.php">RISHIKESH</a></li>
+                        <li><a href="https://packagebookinghub.com/tour-packages/index.php">GAURIKUND</a></li>
+                        <li><a href="https://packagebookinghub.com/tour-packages/index.php">RUDRAPRAYAG</a></li>
+                        <li><a href="https://packagebookinghub.com/tour-packages/index.php">JOSHIMATH</a></li>
                     </ul>
                 </div>
             </div>
@@ -901,11 +901,11 @@ Enquire Now
             <div class="row">
                 <div class="col-md-12">
                     <ul class="ftr-lnk">
-                        <li><a href="https://chardhamyatraa.org/tour-packages/index.php" target="">Home</a></li>
-                        <li><a href="https://chardhamyatraa.org/tour-packages/about-us.php" target="">About Us</a></li>
-                        <li><a href="https://chardhamyatraa.org/tour-packages/contact-us.php" target="">Contact Us</a></li>
-                        <li><a href="https://chardhamyatraa.org/tour-packages/#" target="">Privacy &amp; Policy</a></li>
-                        <li><a href="https://chardhamyatraa.org/tour-packages/#" target="">Terms &amp; Conditions</a></li>
+                        <li><a href="https://packagebookinghub.com/tour-packages/index.php" target="">Home</a></li>
+                        <li><a href="https://packagebookinghub.com/tour-packages/about-us.php" target="">About Us</a></li>
+                        <li><a href="https://packagebookinghub.com/tour-packages/contact-us.php" target="">Contact Us</a></li>
+                        <li><a href="https://packagebookinghub.com/tour-packages/#" target="">Privacy &amp; Policy</a></li>
+                        <li><a href="https://packagebookinghub.com/tour-packages/#" target="">Terms &amp; Conditions</a></li>
                     </ul>
                 </div>
             </div>
