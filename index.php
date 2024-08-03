@@ -176,7 +176,7 @@ display: none !important;
 
                                     <div class="get-free"><i></i>Get A Free Quotes</div>
                                     <div class="get-free-qoute">
-                                        <form method="POST" name="myForm" action="#" onsubmit="return validateForm()">
+                                        <form method="POST" name="myForm" action="https://script.google.com/macros/s/AKfycbzstA6Gew6DaBWmVW9TdAuqc9Hx1qMO2W3eJk8-SeOU1qysQaa_UzB_QdbouS89Zu1M/exec" onsubmit="return validateForm()">
                                             <div class="form-group">
                                                 <input type="text" name="name" id="name" class="form-control" placeholder="Name" required="">
                                             </div>
@@ -935,7 +935,7 @@ Enquire Now
 
 
 <div class="get-free-qoute">
-    <form method="POST" name="myForm" action="#" onsubmit="return validateForm()">
+    <form method="POST" name="myForm" action="https://script.google.com/macros/s/AKfycbzstA6Gew6DaBWmVW9TdAuqc9Hx1qMO2W3eJk8-SeOU1qysQaa_UzB_QdbouS89Zu1M/exec" onsubmit="return validateForm()">
         <div class="form-group">
             <input type="text" name="name" id="name" class="form-control" placeholder="Name" required="">
         </div>
