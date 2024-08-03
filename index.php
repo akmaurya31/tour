@@ -176,7 +176,7 @@ display: none !important;
 
                                     <div class="get-free"><i></i>Get A Free Quotes</div>
                                     <div class="get-free-qoute">
-                                        <form method="POST" name="myForm" action="https://script.google.com/macros/s/AKfycbzstA6Gew6DaBWmVW9TdAuqc9Hx1qMO2W3eJk8-SeOU1qysQaa_UzB_QdbouS89Zu1M/exec" onsubmit="return validateForm()">
+                                        <form method="post" action="" name="thegi" id="thegi">
                                             <div class="form-group">
                                                 <input type="text" name="name" id="name" class="form-control" placeholder="Name" required="">
                                             </div>
@@ -935,7 +935,7 @@ Enquire Now
 
 
 <div class="get-free-qoute">
-    <form method="POST" name="myForm" action="https://script.google.com/macros/s/AKfycbzstA6Gew6DaBWmVW9TdAuqc9Hx1qMO2W3eJk8-SeOU1qysQaa_UzB_QdbouS89Zu1M/exec" onsubmit="return validateForm()">
+    <form method="post" action="" name="thegi" id="thegi">
         <div class="form-group">
             <input type="text" name="name" id="name" class="form-control" placeholder="Name" required="">
         </div>
@@ -1042,6 +1042,24 @@ s0.parentNode.insertBefore(s1,s0);
                 }
             }
         })</script>
+
+
+<script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js"></script>
+<script>
+const scriptURL = 'https://script.google.com/macros/s/AKfycbzoUpDfb2QyxKNtepYz6OZuOl4M05ynclw5GjONn3QQ9Iqi9uW4W3y7mx9GqRogyo8/exec'
+const form = document.forms['thegi']
+form.addEventListener('submit', e => {
+    e.preventDefault();
+    form.classList.toggle('fade-out');
+    spinner.classList.toggle('show');
+    fetch(scriptURL, {mode: 'no-cors', method: 'POST', body: new FormData(form)})
+    .then(response => alert("Thank You, your form has been submitted successfully"))
+    .then(() => {  window.location.reload(); })
+    .catch(error => console.error('Error!', error.message))
+})
+</script>
 
 
 <script async="" charset="UTF-8" src="./packagebookinghub_files/en.js.download"></script><div id="gkv26dthfkd1722626654411" class="widget-visible"><iframe src="./packagebookinghub_files/saved_resource.html" frameborder="0" scrolling="no" width="64px" height="60px" style="outline:none !important; visibility:visible !important; resize:none !important; box-shadow:none !important; overflow:visible !important; background:none !important; opacity:1 !important; filter:alpha(opacity=100) !important; -ms-filter:progid:DXImageTransform.Microsoft.Alpha(Opacity 1}) !important; -mz-opacity:1 !important; -khtml-opacity:1 !important; top:auto !important; right:auto !important; bottom:20px !important; left:20px !important; position:fixed !important; border:0 !important; min-height:60px !important; min-width:64px !important; max-height:60px !important; max-width:64px !important; padding:0 !important; margin:0 !important; -moz-transition-property:none !important; -webkit-transition-property:none !important; -o-transition-property:none !important; transition-property:none !important; transform:none !important; -webkit-transform:none !important; -ms-transform:none !important; width:64px !important; height:60px !important; display:block !important; z-index:1000001 !important; background-color:transparent !important; cursor:none !important; float:none !important; border-radius:unset !important; pointer-events:auto !important; clip:auto !important; color-scheme:light !important;" id="frtj70te2mco1722626654444" class="" title="chat widget"></iframe><iframe src="./packagebookinghub_files/saved_resource(1).html" frameborder="0" scrolling="no" width="350px" height="520px" style="outline:none !important; visibility:visible !important; resize:none !important; box-shadow:none !important; overflow:visible !important; background:none !important; opacity:1 !important; filter:alpha(opacity=100) !important; -ms-filter:progid:DXImageTransform.Microsoft.Alpha(Opacity 1}) !important; -mz-opacity:1 !important; -khtml-opacity:1 !important; top:auto !important; right:auto !important; bottom:90px !important; left:10px !important; position:fixed !important; border:0 !important; min-height:520px !important; min-width:350px !important; max-height:520px !important; max-width:350px !important; padding:0 !important; margin:0 !important; -moz-transition-property:none !important; -webkit-transition-property:none !important; -o-transition-property:none !important; transition-property:none !important; transform:none !important; -webkit-transform:none !important; -ms-transform:none !important; width:350px !important; height:520px !important; display:none !important; z-index:1000002 !important; background-color:transparent !important; cursor:none !important; float:none !important; border-radius:5px !important; pointer-events:auto !important; clip:auto !important; color-scheme:light !important;" id="nhk8c0acu8pg1722626654533" class="" title="chat widget"></iframe><iframe src="./packagebookinghub_files/saved_resource(2).html" frameborder="0" scrolling="no" width="360px" height="145px" style="outline:none !important; visibility:visible !important; resize:none !important; box-shadow:none !important; overflow:visible !important; background:none !important; opacity:1 !important; filter:alpha(opacity=100) !important; -ms-filter:progid:DXImageTransform.Microsoft.Alpha(Opacity 1}) !important; -mz-opacity:1 !important; -khtml-opacity:1 !important; top:auto !important; right:auto !important; bottom:100px; left:20px !important; position:fixed !important; border:0 !important; min-height:145px !important; min-width:360px !important; max-height:145px !important; max-width:360px !important; padding:0 !important; margin:0 !important; -moz-transition-property:none !important; -webkit-transition-property:none !important; -o-transition-property:none !important; transition-property:none !important; transform:none !important; -webkit-transform:none !important; -ms-transform:none !important; width:360px !important; height:145px !important; display:none !important; z-index:auto !important; background-color:transparent !important; cursor:none !important; float:none !important; border-radius:unset !important; pointer-events:auto !important; clip:auto !important; color-scheme:light !important;" id="sd9esnsrmnd1722626654501" class="" title="chat widget"></iframe><iframe src="./packagebookinghub_files/saved_resource(3).html" frameborder="0" scrolling="no" width="124px" height="95px" style="outline:none !important; visibility:visible !important; resize:none !important; box-shadow:none !important; overflow:visible !important; background:none !important; opacity:1 !important; filter:alpha(opacity=100) !important; -ms-filter:progid:DXImageTransform.Microsoft.Alpha(Opacity 1}) !important; -mz-opacity:1 !important; -khtml-opacity:1 !important; top:auto !important; right:auto !important; bottom:30px !important; left:0px !important; position:fixed !important; border:0 !important; min-height:95px !important; min-width:124px !important; max-height:95px !important; max-width:124px !important; padding:0 !important; margin:0px 0 0 0 !important; -moz-transition-property:none !important; -webkit-transition-property:none !important; -o-transition-property:none !important; transition-property:none !important; transform:rotate(0deg) translateZ(0); -webkit-transform:rotate(0deg) translateZ(0); -ms-transform:rotate(0deg) translateZ(0); width:124px !important; height:95px !important; display:block !important; z-index:1000002 !important; background-color:transparent !important; cursor:none !important; float:none !important; border-radius:unset !important; pointer-events:auto !important; clip:auto !important; color-scheme:light !important; -moz-transform:rotate(0deg) translateZ(0); -o-transform:rotate(0deg) translateZ(0); transform-origin:0; -moz-transform-origin:0; -webkit-transform-origin:0; -o-transform-origin:0; -ms-transform-origin:0;" id="we2smfpi4o381722626654462" class="" title="chat widget"></iframe></div></body></html>
